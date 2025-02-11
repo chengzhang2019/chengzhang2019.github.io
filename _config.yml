@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "张橙"
   avatar           : "images/mzq1000.jpg"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
+  bio              : "中国科学院大连化学物理研究所"
+  location         : "中国 大连"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
