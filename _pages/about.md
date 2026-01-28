@@ -47,7 +47,7 @@ redirect_from:
 
 -	`Cheng Zhang`, Anqi Li, Chenggong Li, Xue Li*, Mao Ye*, and Zhongmin Liu. Combing mobile electrical capacitance tomography with Fourier neural operator for 3D fluidized beds measurement[J], *AIChE Journal*, 2024, 71(2): e18641. [[下载]](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.18641) 
 
-- `Cheng Zhang`, Wenjing Sun, Huangzhao Wei*, and Chenglin Sun*. Application of artificial intelligence for predicting reaction results in advanced oxidation processes[J]. *Environmental Technology & Innovation*, 2021, 23: 101550. [[下载]](https://www.sciencedirect.com/science/article/pii/S235218642100198XL) 
+- `Cheng Zhang`, Wenjing Sun, Huangzhao Wei*, and Chenglin Sun*. Application of artificial intelligence for predicting reaction results in advanced oxidation processes[J]. *Environmental Technology & Innovation*, 2021, 23: 101550. [[下载]](https://www.sciencedirect.com/science/article/pii/S235218642100198X) 
 
 -	Xue Li, Jie Xiang, Ting Zhang, `Cheng Zhang`, Anqi Li, Mao Ye*, and Zhongmin Liu. Three-Dimensional Reconstruction of Fluidized Beds from Limited Measurements via a Physics Guided cGAN[J]. *Smart Chemical Engineering*, 2025, 1(1): 2. [[下载]](https://www.sciltp.com/journals/sce/articles/2509001583) 
 
@@ -92,6 +92,7 @@ intelligence-aided preparation of perovskite SrFexZr1-xO3-δ catalysts for ozona
 
 # 💻 工作经历
 - *2025.12 - 至今*, 中国科学院大连化学物理研究所, 博后
+
 
 
 
