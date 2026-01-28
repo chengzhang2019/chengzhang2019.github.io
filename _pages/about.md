@@ -41,10 +41,6 @@ redirect_from:
 ### 英文
 ---
 
-</div>
-</div>
-
-
 - `Cheng Zhang`, Chenggong Li, Xue Li\*, Mao Ye\*, and Zhongmin Liu. A general Physics-Informed Neural Network approach for deriving fluid flow fields from temperature distribution[J], *Chemical Engineering Science*, 2025, 302: 120950. [[下载]](https://www.sciencedirect.com/science/article/pii/S0009250924012508)
 
 -	`Cheng Zhang`, Anqi Li, Chenggong Li, Xue Li\*, Mao Ye\*, and Zhongmin Liu. Combing mobile electrical capacitance tomography with Fourier neural operator for 3D fluidized beds measurement[J], *AIChE Journal*, 2024, 71(2): e18641. [[下载]](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.18641) 
@@ -94,4 +90,5 @@ intelligence-aided preparation of perovskite SrFexZr1-xO3-δ catalysts for ozona
 
 # 💻 工作经历
 - *2025.12 - 至今*, 中国科学院大连化学物理研究所, 博后
+
 
