@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 张橙，2025年于中国科学院大连化学物理研究所获得化学工程博士学位，导师为叶茂研究员与刘中民院士。2021年于中国科学院大连化学物理研究所获得化学工程硕士学位，导师为卫皇曌研究员与孙承林研究员。2018年于长江大学获得化学工程与工艺学士学位。
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+
 
 研究领域包括：
 - 多相流模拟与测量
@@ -101,5 +101,6 @@ intelligence-aided preparation of perovskite SrFexZr1-xO3-δ catalysts for ozona
 
 # 💻 工作经历
 - *2025.12 - 至今*, 中国科学院大连化学物理研究所, 博后
+
 
 
