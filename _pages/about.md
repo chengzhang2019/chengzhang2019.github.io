@@ -42,9 +42,6 @@ redirect_from:
 ### 英文
 ---
 
-</div>
-</div>
-
 
 - `Cheng Zhang`, Chenggong Li, Xue Li*, Mao Ye*, and Zhongmin Liu. A general Physics-Informed Neural Network approach for deriving fluid flow fields from temperature distribution[J], *Chemical Engineering Science*, 2025, 302: 120950. 
  [[下载]](https://www.sciencedirect.com/science/article/pii/S0009250924012508)
@@ -104,4 +101,5 @@ intelligence-aided preparation of perovskite SrFexZr1-xO3-δ catalysts for ozona
 
 # 💻 工作经历
 - *2025.12 - 至今*, 中国科学院大连化学物理研究所, 博后
+
 
