@@ -43,36 +43,27 @@ redirect_from:
 ---
 
 
-- `Cheng Zhang`, Chenggong Li, Xue Li*, Mao Ye*, and Zhongmin Liu. A general Physics-Informed Neural Network approach for deriving fluid flow fields from temperature distribution[J], *Chemical Engineering Science*, 2025, 302: 120950. 
- [[下载]](https://www.sciencedirect.com/science/article/pii/S0009250924012508)
+- `Cheng Zhang`, Chenggong Li, Xue Li*, Mao Ye*, and Zhongmin Liu. A general Physics-Informed Neural Network approach for deriving fluid flow fields from temperature distribution[J], *Chemical Engineering Science*, 2025, 302: 120950. [[下载]](https://www.sciencedirect.com/science/article/pii/S0009250924012508)
 
--	`Cheng Zhang`, Anqi Li, Chenggong Li, Xue Li*, Mao Ye*, and Zhongmin Liu. Combing mobile electrical capacitance tomography with Fourier neural operator for 3D fluidized beds measurement[J], *AIChE Journal*, 2024, 71(2): e18641.   
-[[下载]](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.18641) 
+-	`Cheng Zhang`, Anqi Li, Chenggong Li, Xue Li*, Mao Ye*, and Zhongmin Liu. Combing mobile electrical capacitance tomography with Fourier neural operator for 3D fluidized beds measurement[J], *AIChE Journal*, 2024, 71(2): e18641. [[下载]](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.18641) 
 
-- `Cheng Zhang`, Wenjing Sun, Huangzhao Wei*, and Chenglin Sun*. Application of artificial intelligence for predicting reaction results in advanced oxidation processes[J]. *Environmental Technology & Innovation*, 2021, 23: 101550.   
-[[下载]](https://www.sciencedirect.com/science/article/pii/S235218642100198XL) 
+- `Cheng Zhang`, Wenjing Sun, Huangzhao Wei*, and Chenglin Sun*. Application of artificial intelligence for predicting reaction results in advanced oxidation processes[J]. *Environmental Technology & Innovation*, 2021, 23: 101550. [[下载]](https://www.sciencedirect.com/science/article/pii/S235218642100198XL) 
 
--	Xue Li, Jie Xiang, Ting Zhang, `Cheng Zhang`, Anqi Li, Mao Ye*, and Zhongmin Liu. Three-Dimensional Reconstruction of Fluidized Beds from Limited Measurements via a Physics Guided cGAN[J]. *Smart Chemical Engineering*, 2025, 1(1): 2. 
-[[下载]](https://www.sciltp.com/journals/sce/articles/2509001583) 
+-	Xue Li, Jie Xiang, Ting Zhang, `Cheng Zhang`, Anqi Li, Mao Ye*, and Zhongmin Liu. Three-Dimensional Reconstruction of Fluidized Beds from Limited Measurements via a Physics Guided cGAN[J]. *Smart Chemical Engineering*, 2025, 1(1): 2. [[下载]](https://www.sciltp.com/journals/sce/articles/2509001583) 
 
 -	Xu Wang, Yanan Zhang, `Cheng Zhang`, Huangzhao Wei, Haibo Jin, and Lei Ma*. Artificial
-intelligence-aided preparation of perovskite SrFexZr1-xO3-δ catalysts for ozonation degradation of organic pollutant concentrated water after membrane treatment[J], *Chemosphere*, 2023, 318: 137825. 
-[[下载]](https://www.sciencedirect.com/science/article/pii/S0045653523000917) 
+intelligence-aided preparation of perovskite SrFexZr1-xO3-δ catalysts for ozonation degradation of organic pollutant concentrated water after membrane treatment[J], *Chemosphere*, 2023, 318: 137825. [[下载]](https://www.sciencedirect.com/science/article/pii/S0045653523000917) 
 
 ### 中文
 ---
 
-- `张橙`，李雪*，叶茂*，刘中民，物理信息神经网络在两相流中的应用[J]，*化工学报*，2024, 75(11):3835-3856.  
-[[下载]](https://hgxb.cip.com.cn/EN/Y2024/V75/I11/3835) 
+- `张橙`，李雪*，叶茂*，刘中民，物理信息神经网络在两相流中的应用[J]，*化工学报*，2024, 75(11):3835-3856. [[下载]](https://hgxb.cip.com.cn/EN/Y2024/V75/I11/3835) 
 
-- `张橙`，孙文静，王盛哲，韩培威，孙承林，卫皇曌*，人工智能助力臭氧催化剂SrFexZr1-xO3的开发[J]，*环境科学学报*，2021, 41(5):1868-1877.  
-[[下载]](https://html.rhhz.net/hjkxxb/html/20210101001.htm)  
+- `张橙`，孙文静，王盛哲，韩培威，孙承林，卫皇曌*，人工智能助力臭氧催化剂SrFexZr1-xO3的开发[J]，*环境科学学报*，2021, 41(5):1868-1877. [[下载]](https://html.rhhz.net/hjkxxb/html/20210101001.htm)  
 
-- `张橙`，郑延成*，胡丽琴，张静，安汝舜，马来酸酯磺酸盐的制备及性能[J]，*石油化工*，2018, 47(1):48-53.  
-[[下载]](https://qikan.cqvip.com/Qikan/Article/Detail?id=7000477422) 
+- `张橙`，郑延成*，胡丽琴，张静，安汝舜，马来酸酯磺酸盐的制备及性能[J]，*石油化工*，2018, 47(1):48-53. [[下载]](https://qikan.cqvip.com/Qikan/Article/Detail?id=7000477422) 
 
-- 张婧, `张橙`，卫皇曌, 靳海波, 何广湘, 刘一楠, 马磊*，人工智能助力Fenton法降解间甲酚废水的过程优化研究[J]，*现代化工*，2024, 44(7): 103-108.  
-[[下载]](https://qikan.cqvip.com/Qikan/Article/Detail?id=7112483923) 
+- 张婧, `张橙`，卫皇曌, 靳海波, 何广湘, 刘一楠, 马磊*，人工智能助力Fenton法降解间甲酚废水的过程优化研究[J]，*现代化工*，2024, 44(7): 103-108. [[下载]](https://qikan.cqvip.com/Qikan/Article/Detail?id=7112483923) 
 
 
 ### 专利
@@ -101,6 +92,7 @@ intelligence-aided preparation of perovskite SrFexZr1-xO3-δ catalysts for ozona
 
 # 💻 工作经历
 - *2025.12 - 至今*, 中国科学院大连化学物理研究所, 博后
+
 
 
 
